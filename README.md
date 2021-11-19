@@ -56,7 +56,7 @@ Work is underway on the anonymization of the interviews carried out and the publ
 Will be available within a year.
 
 ## Cartography
-The cartogaphy is not yet available. It will be available as soon as Lou Grimal defends his PhD!! We wish her good luck!!
+The cartogaphy is not yet available. It will be available as soon as Lou Grimal defends her PhD!! We wish her good luck!!
 
 ## Bibliography used in the benchmark 
 * Dietz, S. and Neumayer, E. (2007), “Weak and strong sustainability in the SEEA: Concepts and measurement”, Ecological Economics, Vol. 61 No. 4, pp. 617–626.
