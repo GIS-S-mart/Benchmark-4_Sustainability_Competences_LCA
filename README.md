@@ -34,7 +34,7 @@ The analysis tool is a grid of sustainability engineering skills from (Quelhas e
 * Strategic competence
 The results of each of the competence for every person are gathered thanks to a survey or an interview.
 
-To evalute each of the comptence, we used the same grid. The analysis was done before, during and after the lifecycle analysis process. This difference is measured according to the grid proposed by the Ministry of National Education at 4 levels:
+To evalute each of the comptence, we used the same grid. The analysis was done before, during and after the lifecycle analysis process. This difference is measured according to the grid proposed by the Ministry of National Education (Ministère de l'enseignement, 2011) at 4 levels:
 * Level 1: The content relates to the understanding of an overview of a subject: the realities are shown under cert
 * Level 2: The content relates to the acquisition of means of expression and communication: define, use the terms making up the discipline. It is about mastering "learned" knowledge. This level includes the previous one.
 * Level 3: The content relates to the mastery of study or action tools: use, manipulate rules or sets of rules (algorithm), principles, formalized procedures with a view to a result to be achieved. This level includes the two previous levels.
@@ -62,3 +62,4 @@ The cartogaphy is not yet available. It will be available as soon as Lou Grimal 
 * Dietz, S. and Neumayer, E. (2007), “Weak and strong sustainability in the SEEA: Concepts and measurement”, Ecological Economics, Vol. 61 No. 4, pp. 617–626.
 * Quelhas, O.L.G., Lima, G.B.A., Ludolf, N.V.-E., Meiriño, M.J., Abreu, C., Anholon, R., Vieira Neto, J., et al. (2019), “Engineering education and the development of competencies for sustainability”, International Journal of Sustainability in Higher Education, Emerald Publishing Limited, Vol. 20 No. 4, pp. 614–629.
 * Tardif, J. (2003), “Développer un programme par compétences : de l’intention à la mise en œuvre”, p. 9.
+* Ministère de l’enseignement. (2011), Enseignements technologiques transversaux et enseignements spécifiques - cycle terminal de la série STI2D Description de la taxonomie utilisée, p. 30.
