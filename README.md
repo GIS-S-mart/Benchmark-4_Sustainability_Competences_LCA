@@ -15,13 +15,6 @@ Characterization of the dataset: study a transition phenomenon (before, during, 
 ### Solution 1: Performing an LCA using the openLCA software
 ### Solution 2: Performing an LCA using the openLCA software and a collaborative board
 
-The approach detailed in this sheet is the approach called "New Value Approach" (a source on Alexis Lalevée thesis or work will be added in the next weeks/months). This approach combines different tools which are described in the following list:
-* The Stakeholder Value Network (SVN) measures perceived value: the contribution
-* The Donut economy model (Raworth, 2012) measures the socio-ecological performance of the system
-* The value analysis (VA) makes it possible to measure the technical and economic performance of the system
-
-Other solutions can be added here. For instance, someone working on the ecosystem approach could compare this method with the "New value approach".
-
 ## Measures of Performance
 The analysis tool is a grid of sustainability engineering skills from (Quelhas et al., 2019). The 8 skills used as an analysis tool are:
 * Critical thinking
