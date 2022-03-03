@@ -43,19 +43,18 @@ The file will contain the tables of the competencies of participants before and 
 Work is underway on the anonymization of the interviews carried out and the publication of these interviews in scientific data repositories. The interviews should be available within a year. 
 
 ### Dataset 2: performing a LCA with M2 students on enginnering for sustainability
-Will be available within a year.
+Students performing LCA with openLCA software.
 
-
-| Students                | Compétence 1 | Compétence 2 | Compétence 3 | Compétence 4 | Compétence 5 | Compétence 6 | Compétence 7 | Compétence 8
-|-------------------------|--------------|--------------|--------------|--------------|--------------|--------------|--------------|--------------|
-| Student 1               | 0            | 1            | 1            | 1            | 1            | 1            | 1            | 1            | 
-| Student 2               | 0            | 1            | 1            | 1            | 1            | 1            | 1            | 1            | 
-| Student 3               | 0            | 1            | 1            | 1            | 1            | 1            | 1            | 1            | 
-| Student 4               | 0            | 1            | 1            | 1            | 1            | 1            | 1            | 1            | 
-| Student 5               | 0            | 1            | 1            | 1            | 1            | 1            | 1            | 1            | 
-| Student 6               | 0            | 1            | 1            | 1            | 1            | 1            | 1            | 1            | 
-| Student 7               | 0            | 1            | 1            | 1            | 1            | 1            | 1            | 1            | 
-| Student 8               | 0            | 1            | 1            | 1            | 1            | 1            | 1            | 1            | 
+| Students       | Interdisciplinarity | Critical thinking | Normative competence | Ability to solve problems | Systemic thinking | Self-knowledge | Contextualization and vision of the future | Strategic competence
+|----------------|--------------|--------------|--------------|--------------|--------------|--------------|--------------|--------------|
+| Student 1      | 0            | 1            | 1            | 1            | 1            | 1            | 1            | 1            | 
+| Student 2      | 0            | 1            | 1            | 1            | 1            | 1            | 1            | 1            | 
+| Student 3      | 0            | 1            | 1            | 1            | 1            | 1            | 1            | 1            | 
+| Student 4      | 0            | 1            | 1            | 1            | 1            | 1            | 1            | 1            | 
+| Student 5      | 0            | 1            | 1            | 1            | 1            | 1            | 1            | 1            | 
+| Student 6      | 0            | 1            | 1            | 1            | 1            | 1            | 1            | 1            | 
+| Student 7      | 0            | 1            | 1            | 1            | 1            | 1            | 1            | 1            | 
+| Student 8      | 0            | 1            | 1            | 1            | 1            | 1            | 1            | 1            | 
 | Student 9               | 0            | 1            | 1            | 1            | 1            | 1            | 1            | 1            | 
 | Student 10              | 0            | 1            | 1            | 1            | 1            | 1            | 1            | 1            | 
 | Student 11              | 0            | 1            | 1            | 1            | 1            | 1            | 1            | 1            | 
