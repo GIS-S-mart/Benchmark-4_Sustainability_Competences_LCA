@@ -12,8 +12,8 @@ To share a common understanding of ambiguous concepts, contributors shall agree 
 Characterization of the dataset: study a transition phenomenon (before, during, after). Compare different ways of applying the LCA method.
 
 ## Solutions to be compared
-### Solution 1: Performing an LCA using the openLCA software
-### Solution 2: Performing an LCA using the openLCA software and a collaborative board
+### Solution 1: Performing a LCA using the openLCA software
+### Solution 2: Performing a LCA using the openLCA software and a collaborative board
 
 ## Measures of Performance
 The analysis tool is a grid of sustainability engineering skills from (Quelhas et al., 2019). The 8 skills used as an analysis tool are:
@@ -37,19 +37,31 @@ Level 0 is added when the skill has never been addressed.
 The Ø level is added when the person did not know how to answer.
 
 ## Datasets
-### Dataset 1: performing an LCA with non-experts
+### Dataset 1: performing a LCA with non-experts
 The descriptive file of the first dataset will be available soon (need to be translated and validated by the stakeholders of the experiment).
-* The number of inhabitants
-* Socio-economic characteristics
-* The beliefs of participants
-* The skills table
+The file will contain the tables of the competencies of participants before and after the LCA process. 
 Work is underway on the anonymization of the interviews carried out and the publication of these interviews in scientific data repositories. The interviews should be available within a year. 
 
-### Dataset 2: performing an LCA with M2 students on enginnering for sustainability
+### Dataset 2: performing a LCA with M2 students on enginnering for sustainability
 Will be available within a year.
 
-## Cartography
-The cartogaphy is not yet available. It will be available as soon as Lou Grimal defends her PhD!! We wish her good luck!!
+
+| Students                | Compétence 1 | Compétence 2 | Compétence 3 | Compétence 4 | Compétence 5 | Compétence 6 | Compétence 7 | Compétence 8
+|-------------------------|--------------|--------------|--------------|--------------|--------------|--------------|--------------|--------------|
+| Student 1               | 0            | 1            | 1            | 1            | 1            | 1            | 1            | 1            | 
+| Student 2               | 0            | 1            | 1            | 1            | 1            | 1            | 1            | 1            | 
+| Student 3               | 0            | 1            | 1            | 1            | 1            | 1            | 1            | 1            | 
+| Student 4               | 0            | 1            | 1            | 1            | 1            | 1            | 1            | 1            | 
+| Student 5               | 0            | 1            | 1            | 1            | 1            | 1            | 1            | 1            | 
+| Student 6               | 0            | 1            | 1            | 1            | 1            | 1            | 1            | 1            | 
+| Student 7               | 0            | 1            | 1            | 1            | 1            | 1            | 1            | 1            | 
+| Student 8               | 0            | 1            | 1            | 1            | 1            | 1            | 1            | 1            | 
+| Student 9               | 0            | 1            | 1            | 1            | 1            | 1            | 1            | 1            | 
+| Student 10              | 0            | 1            | 1            | 1            | 1            | 1            | 1            | 1            | 
+| Student 11              | 0            | 1            | 1            | 1            | 1            | 1            | 1            | 1            | 
+| Student 12              | 0            | 1            | 1            | 1            | 1            | 1            | 1            | 1            | 
+| Student 13              | 0            | 1            | 1            | 1            | 1            | 1            | 1            | 1            | 
+
 
 ## Bibliography used in the benchmark 
 * Dietz, S. and Neumayer, E. (2007), “Weak and strong sustainability in the SEEA: Concepts and measurement”, Ecological Economics, Vol. 61 No. 4, pp. 617–626.
