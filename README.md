@@ -43,23 +43,153 @@ The file will contain the tables of the competencies of participants before and 
 Work is underway on the anonymization of the interviews carried out and the publication of these interviews in scientific data repositories. The interviews should be available within a year. 
 
 ### Dataset 2: performing a LCA with M2 students on enginnering for sustainability
-Students performing LCA with openLCA software.
+Students performing LCA with openLCA software
+
+Competences of students using openLCA only - beginning of the semester
 
 | Students       | Interdisciplinarity | Critical thinking | Normative competence | Ability to solve problems | Systemic thinking | Self-knowledge | Contextualization and vision of the future | Strategic competence
 |----------------|--------------|--------------|--------------|--------------|--------------|--------------|--------------|--------------|
-| Student 1      | 0            | 1            | 1            | 1            | 1            | 1            | 1            | 1            | 
-| Student 2      | 0            | 1            | 1            | 1            | 1            | 1            | 1            | 1            | 
-| Student 3      | 0            | 1            | 1            | 1            | 1            | 1            | 1            | 1            | 
-| Student 4      | 0            | 1            | 1            | 1            | 1            | 1            | 1            | 1            | 
-| Student 5      | 0            | 1            | 1            | 1            | 1            | 1            | 1            | 1            | 
-| Student 6      | 0            | 1            | 1            | 1            | 1            | 1            | 1            | 1            | 
-| Student 7      | 0            | 1            | 1            | 1            | 1            | 1            | 1            | 1            | 
-| Student 8      | 0            | 1            | 1            | 1            | 1            | 1            | 1            | 1            | 
-| Student 9               | 0            | 1            | 1            | 1            | 1            | 1            | 1            | 1            | 
-| Student 10              | 0            | 1            | 1            | 1            | 1            | 1            | 1            | 1            | 
-| Student 11              | 0            | 1            | 1            | 1            | 1            | 1            | 1            | 1            | 
-| Student 12              | 0            | 1            | 1            | 1            | 1            | 1            | 1            | 1            | 
-| Student 13              | 0            | 1            | 1            | 1            | 1            | 1            | 1            | 1            | 
+| Student 1      | 3            | 3            | 2            | 2            | 3            | 3            | 3            | 2            | 
+| Student 2      | 3            | 3            | 2            | 2            | 3            | 4            | 3            | 2            | 
+| Student 3      | 3            | 2            | 3            | 3            | 3            | 2            | 3            | 0            | 
+| Student 4      | 3            | 3            | 2            | 2            | 4            | 1            | 3            | 3            | 
+| Student 5      | 1            | 2            | 1            | 2            | 2            | 3            | 1            | 1            | 
+| Student 6      | 2            | 3            | 1            | 2            | 2            | 4            | 2            | 1            | 
+| Student 7      | 3            | 3            | 1            | 3            | 2            | 2            | 3            | 2            | 
+| Student 8      | 1            | 3            | 2            | 4            | 3            | 3            | 3            | 3            | 
+| Student 9      | 3            | 3            | 3            | 3            | 4            | 3            | 2            | 3            | 
+| Student 10     | 2            | 2            | 1            | 3            | 2            | 4            | 1            | 2            | 
+| Student 11     | 1            | 2            | 0            | 2            | 1            | 3            | 1            | 0            | 
+| Student 12     | 3            | 3            | 1            | 1            | 2            | 3            | 1            | 1            | 
+| Student 13     | 3            | 2            | 1            | 2            | 4            | 2            | 1            | 1            | 
+| Student 14     | 3            | 2            | 1            | 1            | 2            | 1            | 1            | 0            | 
+| Student 15     | 3            | 1            | 2            | 1            | 2            | 4            | 1            | 1            | 
+| Student 16     | 4            | 3            | 3            | 3            | 3            | 3            | 3            | 3            | 
+| Student 17     | 3            | 3            | 2            | 2            | 3            | 2            | 2            | 2            | 
+| Student 18     | 1            | 1            | 1            | 1            | 2            | 2            | 1            | 1            | 
+| Student 19     | 3            | 2            | 0            | 2            | 2            | 2            | 1            | 2            | 
+
+Competences of students using openLCA only - middle of the semester
+
+| Students       | Interdisciplinarity | Critical thinking | Normative competence | Ability to solve problems | Systemic thinking | Self-knowledge | Contextualization and vision of the future | Strategic competence
+|----------------|--------------|--------------|--------------|--------------|--------------|--------------|--------------|--------------|
+| Student 1      | 4            | 3            | 3            | 4            | 3            | 4            | 3            | 2            | 
+| Student 2      | 3            | 3            | 3            | 3            | 3            | 4            | 3            | 2            | 
+| Student 3      | 4            | 3            | 2            | 3            | 4            | 1            | 2            | 2            | 
+| Student 4      | 4            | 3            | 3            | 3            | 4            | 3            | 1            | 2            | 
+| Student 5      | 2            | 3            | 1            | 1            | 2            | 4            | 1            | 0            | 
+| Student 6      | 3            | 3            | 2            | 2            | 2            | 4            | 3            | 2            | 
+| Student 7      | 3            | 3            | 2            | 3            | 3            | 3            | 3            | 3            | 
+| Student 8      | 1            | 3            | 3            | 4            | 4            | 4            | 2            | 3            | 
+| Student 9      | 3            | 3            | 3            | 3            | 3            | 3            | 3            | 3            | 
+| Student 10     | 3            | 3            | 2            | 4            | 3            | 4            | 4            | 2            | 
+| Student 11     | 3            | 2            | 2            | 4            | 2            | 2            | 2            | 1            | 
+| Student 12     | 3            | 2            | 2            | 4            | 2            | 3            | 2            | 3            | 
+| Student 13     | 3            | 2            | 2            | 2            | 3            | 2            | 2            | 2            | 
+| Student 14     | 2            | 2            | 1            | 2            | 3            | 2            | 2            | 1            | 
+| Student 15     | 4            | 3            | 3            | 3            | 3            | 3            | 3            | 2            | 
+| Student 16     | 4            | 4            | 4            | 4            | 4            | 4            | 2            | 3            | 
+| Student 17     | 3            | 3            | 3            | 3            | 3            | 3            | 2            | 3            | 
+| Student 18     | 2            | 2            | 1            | 3            | 3            | 3            | 1            | 2            | 
+| Student 19     | 3            | 2            | 1            | 3            | 3            | 3            | 2            | 3            | 
+
+Competences of students using openLCA only - end of the semester
+
+| Students       | Interdisciplinarity | Critical thinking | Normative competence | Ability to solve problems | Systemic thinking | Self-knowledge | Contextualization and vision of the future | Strategic competence
+|----------------|--------------|--------------|--------------|--------------|--------------|--------------|--------------|--------------|
+| Student 1      | 4            | 4            | 3            | 3            | 3            | 4            | 3            | 2            | 
+| Student 2      | 4            | 4            | 4            | 4            | 4            | 4            | 4            | 4            | 
+| Student 3      | 3            | 3            | 2            | 4            | 4            | 3            | 2            | 2            | 
+| Student 4      | 4            | 4            | 3            | 4            | 4            | 3            | 4            | 4            | 
+| Student 5      | 3            | 3            | 2            | 4            | 3            | 3            | 1            | 3            | 
+| Student 6      | 3            | 4            | 3            | 4            | 4            | 4            | 3            | 3            | 
+| Student 7      | 3            | 3            | 3            | 3            | I don't know | 3            | 3            | 2            | 
+| Student 8      | 3            | 4            | 3            | 4            | 4            | 3            | 4            | 4            | 
+| Student 9      | 3            | 3            | 2            | 3            | 3            | 3            | 3            | 2            | 
+| Student 10     | 3            | 3            | 3            | 4            | 3            | 3            | 3            | 3            | 
+| Student 11     | 3            | 4            | 0            | 4            | 4            | 3            | 3            | 3            | 
+| Student 12     | 3            | 3            | 3            | 3            | 3            | 3            | 3            | 3            | 
+| Student 13     | 3            | 3            | 2            | 3            | 3            | 3            | 4            | 2            | 
+| Student 14     | 3            | 2            | 2            | 3            | 2            | 3            | 3            | 2            | 
+| Student 15     | 4            | 3            | 2            | 3            | 3            | 4            | 4            | 3            | 
+| Student 16     | 4            | 4            | 4            | 4            | 4            | 4            | 4            | 4            | 
+| Student 17     | 3            | 4            | 3            | 4            | 3            | 3            | 3            | 2            | 
+| Student 18     | 3            | 2            | 2            | 3            | 2            | 2            | 1            | 3            | 
+| Student 19     | 3            | 3            | 3            | 4            | 3            | 3            | 3            | 4            | 
+
+
+Competences of students using openLCA and a collaborative board - beginning of the semester
+
+| Students       | Interdisciplinarity | Critical thinking | Normative competence | Ability to solve problems | Systemic thinking | Self-knowledge | Contextualization and vision of the future | Strategic competence
+|----------------|--------------|--------------|--------------|--------------|--------------|--------------|--------------|--------------|
+| Student 20     | 3            | 3            | 1            | 2            | 3            | 3            | 3            | 2            | 
+| Student 21     | 3            | 2            | I don't know | 2            | 3            | 4            | 3            | 2            | 
+| Student 22     | 3            | 1            | I don't know | 3            | 3            | 2            | 3            | 0            | 
+| Student 23     | 2            | 3            | 2            | 2            | 4            | 1            | 3            | 3            | 
+| Student 24     | 3            | 3            | 1            | 2            | 2            | 3            | 1            | 1            | 
+| Student 25     | 3            | 3            | 3            | 2            | 2            | 4            | 2            | 1            | 
+| Student 26     | 3            | 2            | 2            | 3            | 2            | 2            | 3            | 2            | 
+| Student 27     | 4            | 4            | 1            | 4            | 3            | 3            | 3            | 3            | 
+| Student 28     | 3            | 3            | 0            | 3            | 4            | 3            | 2            | 3            | 
+| Student 29     | 3            | 3            | 3            | 3            | 2            | 4            | 1            | 2            | 
+| Student 30     | 3            | 3            | 0            | 2            | 1            | 3            | 1            | 0            | 
+| Student 31     | 3            | 3            | I don't know | 1            | 2            | 3            | 1            | 1            | 
+| Student 32     | 4            | 3            | 3            | 2            | 4            | 2            | 1            | 1            | 
+| Student 33     | 4            | 4            | 2            | 1            | 2            | 1            | 1            | 0            | 
+| Student 34     | 3            | 3            | 2            | 1            | 2            | 4            | 1            | 1            | 
+| Student 35     | 2            | 3            | 3            | 3            | 3            | 3            | 3            | 3            | 
+| Student 36     | 3            | 3            | 2            | 2            | 3            | 2            | 2            | 2            | 
+| Student 37     | 3            | 3            | 1            | 1            | 2            | 2            | 1            | 1            | 
+| Student 38     | 2            | 1            | 2            | 2            | 2            | 2            | 1            | 2            | 
+
+Competences of students using openLCA and a collaborative board - middle of the semester
+
+| Students       | Interdisciplinarity | Critical thinking | Normative competence | Ability to solve problems | Systemic thinking | Self-knowledge | Contextualization and vision of the future | Strategic competence
+|----------------|--------------|--------------|--------------|--------------|--------------|--------------|--------------|--------------|
+| Student 1      | 4            | 3            | 3            | 4            | 3            | 4            | 3            | 2            | 
+| Student 2      | 3            | 3            | 3            | 3            | 3            | 4            | 3            | 2            | 
+| Student 3      | 4            | 3            | 2            | 3            | 4            | 1            | 2            | 2            | 
+| Student 4      | 4            | 3            | 3            | 3            | 4            | 3            | 1            | 2            | 
+| Student 5      | 2            | 3            | 1            | 1            | 2            | 4            | 1            | 0            | 
+| Student 6      | 3            | 3            | 2            | 2            | 2            | 4            | 3            | 2            | 
+| Student 7      | 3            | 3            | 2            | 3            | 3            | 3            | 3            | 3            | 
+| Student 8      | 1            | 3            | 3            | 4            | 4            | 4            | 2            | 3            | 
+| Student 9      | 3            | 3            | 3            | 3            | 3            | 3            | 3            | 3            | 
+| Student 10     | 3            | 3            | 2            | 4            | 3            | 4            | 4            | 2            | 
+| Student 11     | 3            | 2            | 2            | 4            | 2            | 2            | 2            | 1            | 
+| Student 12     | 3            | 2            | 2            | 4            | 2            | 3            | 2            | 3            | 
+| Student 13     | 3            | 2            | 2            | 2            | 3            | 2            | 2            | 2            | 
+| Student 14     | 2            | 2            | 1            | 2            | 3            | 2            | 2            | 1            | 
+| Student 15     | 4            | 3            | 3            | 3            | 3            | 3            | 3            | 2            | 
+| Student 16     | 4            | 4            | 4            | 4            | 4            | 4            | 2            | 3            | 
+| Student 17     | 3            | 3            | 3            | 3            | 3            | 3            | 2            | 3            | 
+| Student 18     | 2            | 2            | 1            | 3            | 3            | 3            | 1            | 2            | 
+| Student 19     | 3            | 2            | 1            | 3            | 3            | 3            | 2            | 3            | 
+
+Competences of students using openLCA and a collaborative board - end of the semester
+
+| Students       | Interdisciplinarity | Critical thinking | Normative competence | Ability to solve problems | Systemic thinking | Self-knowledge | Contextualization and vision of the future | Strategic competence
+|----------------|--------------|--------------|--------------|--------------|--------------|--------------|--------------|--------------|
+| Student 1      | 4            | 4            | 3            | 3            | 3            | 4            | 3            | 2            | 
+| Student 2      | 4            | 4            | 4            | 4            | 4            | 4            | 4            | 4            | 
+| Student 3      | 3            | 3            | 2            | 4            | 4            | 3            | 2            | 2            | 
+| Student 4      | 4            | 4            | 3            | 4            | 4            | 3            | 4            | 4            | 
+| Student 5      | 3            | 3            | 2            | 4            | 3            | 3            | 1            | 3            | 
+| Student 6      | 3            | 4            | 3            | 4            | 4            | 4            | 3            | 3            | 
+| Student 7      | 3            | 3            | 3            | 3            | I don't know | 3            | 3            | 2            | 
+| Student 8      | 3            | 4            | 3            | 4            | 4            | 3            | 4            | 4            | 
+| Student 9      | 3            | 3            | 2            | 3            | 3            | 3            | 3            | 2            | 
+| Student 10     | 3            | 3            | 3            | 4            | 3            | 3            | 3            | 3            | 
+| Student 11     | 3            | 4            | 0            | 4            | 4            | 3            | 3            | 3            | 
+| Student 12     | 3            | 3            | 3            | 3            | 3            | 3            | 3            | 3            | 
+| Student 13     | 3            | 3            | 2            | 3            | 3            | 3            | 4            | 2            | 
+| Student 14     | 3            | 2            | 2            | 3            | 2            | 3            | 3            | 2            | 
+| Student 15     | 4            | 3            | 2            | 3            | 3            | 4            | 4            | 3            | 
+| Student 16     | 4            | 4            | 4            | 4            | 4            | 4            | 4            | 4            | 
+| Student 17     | 3            | 4            | 3            | 4            | 3            | 3            | 3            | 2            | 
+| Student 18     | 3            | 2            | 2            | 3            | 2            | 2            | 1            | 3            | 
+| Student 19     | 3            | 3            | 3            | 4            | 3            | 3            | 3            | 4            | 
+
 
 
 ## Bibliography used in the benchmark 
