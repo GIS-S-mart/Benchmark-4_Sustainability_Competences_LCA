@@ -1,6 +1,8 @@
 # Benchmark 4. Benchmark on the relevance of LCA to improve one's competences of engineering for sustainability
 The objective of the benchmark is to analyze the ability of a population who carry out a life cycle assessment to acquire engineering for sustainability competencies. 
+
 Any person why teach or pratice LCA with a specific population (students, companies, non experts) can participate to this benchmark, take the data to analyse them, complete the data with other experiments.
+
 Possible outputs of the benchmark: identifing teaching methods for LCA, improving the metod process to collect the data regarding the competencies of students.
 
 ## Glossary
@@ -9,23 +11,25 @@ To share a common understanding of ambiguous concepts, contributors shall agree 
 * Competence: a complex knowledge of acting based on the effective mobilization and use of a variety of resources (Tardif, 2003)
 
 ## Requirements
-
+* The learning process should enable the population to understand what is LCA and how to realize a LCA regarding the norm 14040 (LCA Norm)
+* The LCA solutions present in the dataset should be IT-based solutions
+* The population can be any type of population
 
 
 ## Positioning of the solutions
 This table details the different results obtained by the previous experiment. It will help you define which solution correspond to which dataset.
 If you have deployed a data collection protocol following the method described in this benchmark, feel free to contribute.
 
-| OpenLCA                 | OpenLCA with a collaborative board |    OpenLCA   | GaBi | Add your own IT-based solution |
-|-------------------------|------------------------------------|--------------|------|--------------------------------|
-| Students from Master 2  |         Solution 1                 | Solution 1   |      |                                |
-| Add the population      |                                    |              |      |                                
+| Population / IT solution | OpenLCA with a collaborative board |    OpenLCA   | GaBi | Add your own IT-based solution |
+|--------------------------|------------------------------------|--------------|------|--------------------------------|
+| Students from Master 2   |         Solution 1                 | Solution 1   |      |                                |
+| Add the population       |                                    |              |      |                                
 
 OpenLCA: https://nexus.openlca.org/
 OpenLCA with a collaborative board: https://nexus.openlca.org/ + The link of the collaborative board used will be available soon.
 GaBi: https://gabi.sphera.com/france/downloads/ 
 
-## Measures of Performance
+## Criteria of Performance
 The analysis tool is a grid of sustainability engineering skills from (Quelhas et al., 2019). The 8 skills used as an analysis tool are:
 * Critical thinking
 * Working in interdisciplinary group
@@ -45,10 +49,48 @@ To evalute each of the comptence, we used the same grid. The analysis was done b
 
 2 levels have been added: 
 * Level 0 is added when the skill has never been addressed.
-* The Ø level is added when the person did not know how to answer ('I don't know' in the table)
+* The Ø level is added when the person did not know how to answer
+
+Those criteria are defined by numbers in the results obtained (level 0 corresponds to '0', level 1 corresponds to '1', level 2 corresponds to '2', level 3 corresponds to '3', level 4 corresponds to '4', level Ø corresponds to 'I don't know');
+
 
 ## Dataset
-The dataset is the method to follow to get the results.
+The dataset is the method / protocol to follow to get the results.
+
+## Dataset 1
+Description of the method: this dataset combines a specific type of population (master 2 students) and IT tools (openLCA and a collaborative board).
+
+**Description of the pedagogical context:** the class is called "Environmental assessment" and is delivered by 3 persons. It is a hybrid class (some classes are available in person and some classes are online with videos to watch on a pedagogical platform. There are 20 hours of class, 20 hours of tutorial and 60 hours of work. Students are grouped by 4 to 5 persons. Each group has to make a life cycle assessment and provide a LCA report at the end of the semester (called a project). Also, a critical review on an already written LCA report is done individually at the beginning of the semester and an other one is done at the end of the semester. Each project is sponsored by an organization ('real' client).
+
+**Description of the population:** the population were students in Master 2. Students were coming from various backgrounds (material engineering, mechanical engineering, technical background, social background, law and economic background or environmental background). The Master was specialized on sustainable developmenet and environmental engineering.
+
+**Description of the technical elements analyzed during the LCA process:**
+* Photovoltaic equipment
+* Renovation of a building
+* Water treatment system
+* Technical system for protection of vineyards
+* Vertical greenhouses
+* Covers for orthopaedic seats
+* Heating system
+* Low-tech fridge
+
+**Description of the type of organization the groups of students were linked to:**
+* Ecovillage
+* Association 
+* Industrial company
+* No specific organization
+
+| Type of organization     | Subject                                       | Student number    |
+|--------------------------|-----------------------------------------------|-------------------|
+| Ecovillage               | Photovoltaic equipment                        | 3, 6, 15, 17, 19  |
+|                          | Renovation of a building                      | 24, 30, 35, 37, 38|
+|                          | Water treatment system                        | 1, 2, 5, 7, 9     |
+| Industrial company       | Technical system for protection of vineyards  | 21, 22, 25, 29, 34|
+|                          | Vertical greenhouses                          | 4, 10, 12, 16, 18 |
+|                          | Covers for orthopaedic seats                  | 8, 11, 13, 14     |
+| Association              | Heating system                                | 20, 23, 27, 31, 36|
+| No specific organization | Low-tech fridge                               | 26, 28, 32, 33    |
+
 
 ## Results
 ### Solution 1: Performing a LCA using the openLCA software and a collaborative board with M2 students following a master on engineering of the environment and sustainable development
@@ -205,4 +247,4 @@ Competences of students using openLCA and a collaborative board - end of the sem
 * Quelhas, O.L.G., Lima, G.B.A., Ludolf, N.V.-E., Meiriño, M.J., Abreu, C., Anholon, R., Vieira Neto, J., et al. (2019), “Engineering education and the development of competencies for sustainability”, International Journal of Sustainability in Higher Education, Emerald Publishing Limited, Vol. 20 No. 4, pp. 614–629.
 * Tardif, J. (2003), “Développer un programme par compétences : de l’intention à la mise en œuvre”, p. 9.
 * Ministère de l’enseignement. (2011), Enseignements technologiques transversaux et enseignements spécifiques - cycle terminal de la série STI2D Description de la taxonomie utilisée, p. 30.
-* LCA Norm: https://www.iso.org/standard/37456.html 
+* LCA Norm: https://www.iso.org/standard/37456.html
