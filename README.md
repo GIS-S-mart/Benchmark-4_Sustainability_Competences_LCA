@@ -1,19 +1,29 @@
 # Benchmark 4. Benchmark on the relevance of LCA to improve one's competences of engineering for sustainability
-This benchmark is under construction. So not all the sections are completed (especially the cartography)
-The objective of the benchmark is to analyze the increase in skills in sustainability engineering of people who carry out a collaborative life cycle assessment approach.
+The objective of the benchmark is to analyze the ability of a population who carry out a life cycle assessment to acquire engineering for sustainability competencies. 
+Any person why teach or pratice LCA with a specific population (students, companies, non experts) can participate to this benchmark, take the data to analyse them, complete the data with other experiments.
+Possible outputs of the benchmark: identifing teaching methods for LCA, improving the metod process to collect the data regarding the competencies of students.
 
 ## Glossary
 To share a common understanding of ambiguous concepts, contributors shall agree upon the following definitions:
 * Strong sustainability: definition taken from (Dietz and Neumayer, 2007). Natural capital is non-substitutable as it is a primary value to human welfare.
-* "Projet Oasis" (used in 1 dataset): https://www.colibris-lemouvement.org/projets/projet-oasis 
 * Competence: a complex knowledge of acting based on the effective mobilization and use of a variety of resources (Tardif, 2003)
 
 ## Requirements
-Characterization of the dataset: study a transition phenomenon (before, during, after). Compare different ways of applying the LCA method.
 
-## Solutions to be compared
-### Solution 1: Performing a LCA using the openLCA software
-### Solution 2: Performing a LCA using the openLCA software and a collaborative board
+
+
+## Positioning of the solutions
+This table details the different results obtained by the previous experiment. It will help you define which solution correspond to which dataset.
+If you have deployed a data collection protocol following the method described in this benchmark, feel free to contribute.
+
+| OpenLCA                 | OpenLCA with a collaborative board |    OpenLCA   | GaBi | Add your own IT-based solution |
+|-------------------------|------------------------------------|--------------|------|--------------------------------|
+| Students from Master 2  |         Solution 1                 | Solution 1   |      |                                |
+| Add the population      |                                    |              |      |                                
+
+OpenLCA: https://nexus.openlca.org/
+OpenLCA with a collaborative board: https://nexus.openlca.org/ + The link of the collaborative board used will be available soon.
+GaBi: https://gabi.sphera.com/france/downloads/ 
 
 ## Measures of Performance
 The analysis tool is a grid of sustainability engineering skills from (Quelhas et al., 2019). The 8 skills used as an analysis tool are:
@@ -33,17 +43,15 @@ To evalute each of the comptence, we used the same grid. The analysis was done b
 * Level 3: The content relates to the mastery of study or action tools: use, manipulate rules or sets of rules (algorithm), principles, formalized procedures with a view to a result to be achieved. This level includes the two previous levels.
 * Level 4: The content relates to the mastery of a methodology for formulating and solving problems: assembling, organizing the elements of a subject, identifying the relationships, reasoning from these relationships, deciding with a view to a goal to reach. It is about mastering an approach: induce, deduce, experiment, document yourself. This level encompasses the three previous levels.
 
-Level 0 is added when the skill has never been addressed.
-The Ø level is added when the person did not know how to answer.
+2 levels have been added: 
+* Level 0 is added when the skill has never been addressed.
+* The Ø level is added when the person did not know how to answer ('I don't know' in the table)
 
-## Datasets
-### Dataset 1: performing a LCA with non-experts
-The descriptive file of the first dataset will be available soon (need to be translated and validated by the stakeholders of the experiment).
-The file will contain the tables of the competencies of participants before and after the LCA process. 
-Work is underway on the anonymization of the interviews carried out and the publication of these interviews in scientific data repositories. The interviews should be available within a year. 
+## Dataset
+The dataset is the method to follow to get the results.
 
-### Dataset 2: performing a LCA with M2 students on enginnering for sustainability
-Students performing LCA with openLCA software
+## Results
+### Solution 1: Performing a LCA using the openLCA software and a collaborative board with M2 students following a master on engineering of the environment and sustainable development
 
 Competences of students using openLCA only - beginning of the semester
 
@@ -146,49 +154,49 @@ Competences of students using openLCA and a collaborative board - middle of the 
 
 | Students       | Interdisciplinarity | Critical thinking | Normative competence | Ability to solve problems | Systemic thinking | Self-knowledge | Contextualization and vision of the future | Strategic competence
 |----------------|--------------|--------------|--------------|--------------|--------------|--------------|--------------|--------------|
-| Student 1      | 3            | 3            | 3            | 3            | 3            | 3            | 3            | 3            | 
-| Student 2      | 3            | 3            | 1            | 3            | 2            | 3            | 3            | 2            | 
-| Student 3      | 3            | 1            | I don't know | 2            | 4            | 1            | 1            | 1            | 
-| Student 4      | 3            | 3            | 3            | 3            | 4            | 3            | 3            | 2            | 
-| Student 5      | 3            | 3            | 1            | 2            | 3            | 3            | 2            | 1            | 
-| Student 6      | 3            | 3            | 3            | 3            | 2            | 4            | 2            | 3            | 
-| Student 7      | 4            | 3            | 3            | 4            | 3            | 3            | 3            | 3            | 
-| Student 8      | 4            | 4            | 3            | 4            | 4            | 3            | 3            | 4            | 
-| Student 9      | 2            | 3            | 4            | 2            | 4            | 3            | I don't know | I don't know | 
-| Student 10     | 3            | 4            | 3            | 4            | 3            | 3            | 3            | 3            | 
-| Student 11     | 3            | 3            | 1            | 3            | 3            | 1            | 3            | 1            | 
-| Student 12     | 3            | 3            | 1            | 2            | 3            | 2            | 3            | I don't know | 
-| Student 13     | 2            | 3            | 2            | 3            | 3            | 2            | 3            | 2            | 
-| Student 14     | 3            | 3            | 2            | 3            | 3            | 3            | 2            | 3            | 
-| Student 15     | 3            | 3            | 2            | 3            | 3            | 4            | 3            | 3            | 
-| Student 16     | 3            | 4            | 4            | 3            | 3            | 3            | 3            | 3            | 
-| Student 17     | 3            | 3            | 3            | 3            | 3            | 4            | 2            | 3            | 
-| Student 18     | 3            | 2            | 1            | 3            | 2            | 1            | 3            | 2            | 
-| Student 19     | 3            | 3            | 2            | 3            | 3            | 1            | 1            | 3            | 
+| Student 20      | 3            | 3            | 3            | 3            | 3            | 3            | 3            | 3            | 
+| Student 21      | 3            | 3            | 1            | 3            | 2            | 3            | 3            | 2            | 
+| Student 22      | 3            | 1            | I don't know | 2            | 4            | 1            | 1            | 1            | 
+| Student 23      | 3            | 3            | 3            | 3            | 4            | 3            | 3            | 2            | 
+| Student 24      | 3            | 3            | 1            | 2            | 3            | 3            | 2            | 1            | 
+| Student 25      | 3            | 3            | 3            | 3            | 2            | 4            | 2            | 3            | 
+| Student 26      | 4            | 3            | 3            | 4            | 3            | 3            | 3            | 3            | 
+| Student 27      | 4            | 4            | 3            | 4            | 4            | 3            | 3            | 4            | 
+| Student 28      | 2            | 3            | 4            | 2            | 4            | 3            | I don't know | I don't know | 
+| Student 29     | 3            | 4            | 3            | 4            | 3            | 3            | 3            | 3            | 
+| Student 30     | 3            | 3            | 1            | 3            | 3            | 1            | 3            | 1            | 
+| Student 31     | 3            | 3            | 1            | 2            | 3            | 2            | 3            | I don't know | 
+| Student 32     | 2            | 3            | 2            | 3            | 3            | 2            | 3            | 2            | 
+| Student 33     | 3            | 3            | 2            | 3            | 3            | 3            | 2            | 3            | 
+| Student 34     | 3            | 3            | 2            | 3            | 3            | 4            | 3            | 3            | 
+| Student 35     | 3            | 4            | 4            | 3            | 3            | 3            | 3            | 3            | 
+| Student 36     | 3            | 3            | 3            | 3            | 3            | 4            | 2            | 3            | 
+| Student 37     | 3            | 2            | 1            | 3            | 2            | 1            | 3            | 2            | 
+| Student 38     | 3            | 3            | 2            | 3            | 3            | 1            | 1            | 3            | 
 
 Competences of students using openLCA and a collaborative board - end of the semester
 
 | Students       | Interdisciplinarity | Critical thinking | Normative competence | Ability to solve problems | Systemic thinking | Self-knowledge | Contextualization and vision of the future | Strategic competence
 |----------------|--------------|--------------|--------------|--------------|--------------|--------------|--------------|--------------|
-| Student 1      | 3            | 4            | 3            | 4            | 3            | 3            | 3            | 2            | 
-| Student 2      | 3            | 3            | 3            | 4            | 3            | 3            | 3            | 2            | 
-| Student 3      | 3            | 2            | 2            | 3            | 4            | 3            | 1            | 1            | 
-| Student 4      | 3            | 4            | 3            | 3            | 4            | 3            | 4            | 3            | 
-| Student 5      | 4            | 3            | 3            | 3            | 4            | 3            | 1            | 2            | 
-| Student 6      | 3            | 3            | 3            | 3            | 3            | 3            | 3            | 3            | 
-| Student 7      | 4            | 3            | 3            | 4            | 3            | 4            | 4            | 3            | 
-| Student 8      | 4            | 4            | 3            | 4            | 4            | 3            | 4            | 4            | 
-| Student 9      | 2            | 4            | 0            | 2            | 4            | 1            | 3            | 1            | 
-| Student 10     | 3            | 4            | 4            | 4            | 4            | 4            | 4            | 2            | 
-| Student 11     | 3            | 3            | 1            | 4            | 2            | 2            | 3            | 3            | 
-| Student 12     | 4            | 3            | I don't know | 3            | 3            | 3            | 2            | 2            | 
-| Student 13     | 3            | 4            | 4            | 3            | 3            | 4            | 3            | 4            | 
-| Student 14     | 4            | 3            | 3            | 4            | 3            | 4            | 4            | 3            | 
-| Student 15     | 4            | 3            | 2            | 4            | 4            | 3            | 3            | 3            | 
-| Student 16     | 4            | 4            | 3            | 3            | 4            | 4            | 4            | 3            | 
-| Student 17     | 4            | 4            | 3            | 3            | 3            | 3            | 2            | I don't know | 
-| Student 18     | 3            | 3            | 2            | 3            | 3            | 4            | 4            | 3            | 
-| Student 19     | 3            | 3            | 3            | 3            | 3            | 2            | 3            | 2            | 
+| Student 20      | 3            | 4            | 3            | 4            | 3            | 3            | 3            | 2            | 
+| Student 21      | 3            | 3            | 3            | 4            | 3            | 3            | 3            | 2            | 
+| Student 22      | 3            | 2            | 2            | 3            | 4            | 3            | 1            | 1            | 
+| Student 23      | 3            | 4            | 3            | 3            | 4            | 3            | 4            | 3            | 
+| Student 24      | 4            | 3            | 3            | 3            | 4            | 3            | 1            | 2            | 
+| Student 25      | 3            | 3            | 3            | 3            | 3            | 3            | 3            | 3            | 
+| Student 26      | 4            | 3            | 3            | 4            | 3            | 4            | 4            | 3            | 
+| Student 27      | 4            | 4            | 3            | 4            | 4            | 3            | 4            | 4            | 
+| Student 28      | 2            | 4            | 0            | 2            | 4            | 1            | 3            | 1            | 
+| Student 29     | 3            | 4            | 4            | 4            | 4            | 4            | 4            | 2            | 
+| Student 30     | 3            | 3            | 1            | 4            | 2            | 2            | 3            | 3            | 
+| Student 31     | 4            | 3            | I don't know | 3            | 3            | 3            | 2            | 2            | 
+| Student 32     | 3            | 4            | 4            | 3            | 3            | 4            | 3            | 4            | 
+| Student 33     | 4            | 3            | 3            | 4            | 3            | 4            | 4            | 3            | 
+| Student 34     | 4            | 3            | 2            | 4            | 4            | 3            | 3            | 3            | 
+| Student 35     | 4            | 4            | 3            | 3            | 4            | 4            | 4            | 3            | 
+| Student 36     | 4            | 4            | 3            | 3            | 3            | 3            | 2            | I don't know | 
+| Student 37     | 3            | 3            | 2            | 3            | 3            | 4            | 4            | 3            | 
+| Student 38     | 3            | 3            | 3            | 3            | 3            | 2            | 3            | 2            | 
 
 
 
@@ -197,3 +205,4 @@ Competences of students using openLCA and a collaborative board - end of the sem
 * Quelhas, O.L.G., Lima, G.B.A., Ludolf, N.V.-E., Meiriño, M.J., Abreu, C., Anholon, R., Vieira Neto, J., et al. (2019), “Engineering education and the development of competencies for sustainability”, International Journal of Sustainability in Higher Education, Emerald Publishing Limited, Vol. 20 No. 4, pp. 614–629.
 * Tardif, J. (2003), “Développer un programme par compétences : de l’intention à la mise en œuvre”, p. 9.
 * Ministère de l’enseignement. (2011), Enseignements technologiques transversaux et enseignements spécifiques - cycle terminal de la série STI2D Description de la taxonomie utilisée, p. 30.
+* LCA Norm: https://www.iso.org/standard/37456.html 
