@@ -63,6 +63,7 @@ Description of the method: this dataset combines a specific type of population (
 **Description of the pedagogical context:** the class is called "Environmental assessment" and is delivered by 3 persons. It is a hybrid class (some classes are available in person and some classes are online with videos to watch on a pedagogical platform. There are 20 hours of class, 20 hours of tutorial and 60 hours of work. Students are grouped by 4 to 5 persons. Each group has to make a life cycle assessment and provide a LCA report at the end of the semester (called a project). Also, a critical review on an already written LCA report is done individually at the beginning of the semester and an other one is done at the end of the semester. Each project is sponsored by an organization ('real' client).
 
 **Description of the population:** the population were students in Master 2. Students were coming from various backgrounds (material engineering, mechanical engineering, technical background, social background, law and economic background or environmental background). The Master was specialized on sustainable developmenet and environmental engineering.
+When students were starting their semester, they had different level of knowledge on LCA. A few students had already made a LCA in an industrial context, a little group had already made 1 LCA in a pedagogical context. Most of the students were unfamiliar with LCA process.
 
 **Description of the technical elements analyzed during the LCA process:**
 * Photovoltaic equipment
