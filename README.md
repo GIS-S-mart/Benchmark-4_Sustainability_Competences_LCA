@@ -39,6 +39,8 @@ The analysis tool is a grid of sustainability engineering skills from (Quelhas e
 * Self-knowledge
 * Contextualisation and vision of the future (anticipation)
 * Strategic competence
+
+
 The results of each of the competence for every person are gathered thanks to a survey or an interview.
 
 To evalute each of the comptence, we used the same grid. The analysis was done before, during and after the lifecycle analysis process. This difference is measured according to the grid proposed by the Ministry of National Education (Ministère de l'enseignement, 2011) at 4 levels:
