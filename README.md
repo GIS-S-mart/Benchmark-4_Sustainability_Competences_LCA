@@ -1,5 +1,5 @@
 # Benchmark 4. Benchmark on the relevance of LCA to improve one's competences of engineering for sustainability
-The objective of the benchmark is to analyze the ability of a population who carry out a life cycle assessment to acquire engineering for sustainability competencies. 
+The objective of the benchmark is to analyze the ability of a population to acquire competencies in engineering for sustainability. In this benchmark, we are focused on populations who are conducting a life cycle assessment process.
 
 Any person why teach or pratice LCA with a specific population (students, companies, non experts) can participate to this benchmark, take the data to analyse them, complete the data with other experiments.
 
